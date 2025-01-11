@@ -12,6 +12,7 @@ langchain-groq = "^0.2.3"
 duckduckgo-search = "^7.2.1"
 langchain-experimental = "^0.3.4"
 wikipedia = "^1.4.0"
+youtube-search = "^2.1.2"
 
 
 [build-system]
